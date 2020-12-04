@@ -12,7 +12,7 @@
 
 Github 主页：[https://github.com/gtf35](https://github.com/gtf35)
 
-有 41 个 followers 并获得 300+ star
+有 61 个 followers 并获得 445+ star
 
 
 
@@ -24,21 +24,21 @@ Github 主页：[https://github.com/gtf35](https://github.com/gtf35)
     -   项目名称：利用 app_process 实现免 root 调用 shell
     -   开源地址：[https://github.com/gtf35/app_process-shell-use](https://github.com/gtf35/app_process-shell-use)
     -   博客地址：[https://blog.gtf35.top/app_process-shell-use/](https://blog.gtf35.top/app_process-shell-use/)
-    -   开源情况：151 star and 42 fork
+    -   开源情况：198 star and 58 fork
     -   作用：国内首篇利用 app_prcocess 来进行应用提权的文章，提供一种免 root 应用获得 shell 权限的思路，比如静默安装等，并提供思路实现 demo
 
 -   [how-to-check-sign](https://github.com/gtf35/how-to-check-sign)
     -   项目名称：如何把签名校验做到极致
     -   开源地址：[https://github.com/gtf35/how-to-check-sign](https://github.com/gtf35/how-to-check-sign)
     -   博客地址：[https://blog.gtf35.top/how_to_check_sign/](https://blog.gtf35.top/how_to_check_sign/)
-    -   开源情况：16 star and 5 fork
+    -   开源情况：38 star and 8 fork
     -   作用：通过一个模拟的真实案例-「拿到了被破解的 APK」，静态的分析破解的思路并启发读者将学到的知识应用到实际开发中去。demo 中介绍的方法真实可行，可以突破主流基于 hook 的重打包工具（如太极）
 
 -   [beautiful_switch](https://github.com/gtf35/beautiful_switch)
     -   项目名称：Android 上一个漂亮的开关
     -   开源地址：[https://github.com/gtf35/beautiful_switch](https://github.com/gtf35/beautiful_switch)
     -   博客地址：[https://blog.gtf35.top/beautiful_switch/](https://blog.gtf35.top/beautiful_switch/)
-    -   开源情况：4 star
+    -   开源情况：6 star
     -   作用：一个在 Android 平台上美观的开关控件。这个项目初衷是教学目的。在文章中详细介绍了一个自定义控件从设计图到建立项目编写代码最后发布 Jcenter 仓库供别人的过程，过程详细截图多，内容完成且紧凑。项目本身完全手动绘制，直接继承 View 不依赖已有的控件，不但性能高而且做了系统回收适配
 
 -   [BLESerial](https://github.com/gtf35/BLESerial)
@@ -48,7 +48,7 @@ Github 主页：[https://github.com/gtf35](https://github.com/gtf35)
     
     -   博客地址：[https://blog.gtf35.top/bluetooth_spp/](https://blog.gtf35.top/bluetooth_spp/)
     
-    -   开源情况：45 star and 7 fork
+    -   开源情况：58 star and 12 fork
     
     -   作用：大幅度简化和物联网硬件的连接
     
